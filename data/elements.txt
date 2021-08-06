@@ -12437,3 +12437,15 @@ body > sibbo-cmp-layout
 #cookieoverlay-x
 #ta-cc-modal
 .ta-cc-modal
+#lgcookieslaw_banner
+.lgcookieslaw_banner
+.cookieconsent-overlay
+.consent-overlay
+#_cpmt-css
+#_cpmt-iframe
+#modalcooky
+.modalcooky
+.block-aljamir-cookies
+.eupopup-bg-container
+.cookie-monster__container
+div[data-cookie-consent-overlay]
